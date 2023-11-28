@@ -1,4 +1,5 @@
 # calculadora.js
 Simple Calculator made with java script 
 
-![image](https://github.com/ichirohn/calculadora.js/assets/32905698/d4334896-9bd4-4666-a5aa-a01664953327)
+![image](https://github.com/ichirohn/calculadora.js/assets/32905698/dd0c18a1-7d4e-4766-9189-60ae565d839e)
+
